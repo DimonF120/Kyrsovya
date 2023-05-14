@@ -1,0 +1,8 @@
+E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\Kyrsovya\bin\Debug\Kyrsovya.exe.config
+E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\Kyrsovya\bin\Debug\Kyrsovya.exe
+E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\Kyrsovya\bin\Debug\Kyrsovya.pdb
+E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\Kyrsovya\obj\Debug\Kyrsovya.csproj.AssemblyReference.cache
+E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\Kyrsovya\obj\Debug\Kyrsovya.csproj.SuggestedBindingRedirects.cache
+E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\Kyrsovya\obj\Debug\Kyrsovya.csproj.CoreCompileInputs.cache
+E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\Kyrsovya\obj\Debug\Kyrsovya.exe
+E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\Kyrsovya\obj\Debug\Kyrsovya.pdb
