@@ -65,12 +65,18 @@ namespace Kyrsovya
             }
             else if (a == 2)
             {
-                StreamReader sr = new StreamReader(@"E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\1.txt", Encoding.Default);
-                while (!sr.EndOfStream)
+                if (System.IO.File.Exists(@"E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\1.txt"))
                 {
-                    parts = sr.ReadToEnd().Split(new[] { " ", ",", ";" }, StringSplitOptions.RemoveEmptyEntries);
+                    StreamReader sr = new StreamReader(@"E:\БГУИР\1 курс 2 семестр\ОАиП (курсач)\Kyrsovya\1.txt", Encoding.Default);
+                    while (!sr.EndOfStream)
+                    {
+                        parts = sr.ReadToEnd().Split(new[] { " ", ",", ";" }, StringSplitOptions.RemoveEmptyEntries);
+                    }
+                    sr.Close();
                 }
-                sr.Close();
+                else Console.WriteLine("Заданного файла не существует");
+                Console.ReadLine();
+                return;
             }
             else if (a != 1 || a != 2)
             {
